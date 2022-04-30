@@ -53,7 +53,6 @@ export const Auth: React.FC = () => {
   //   };
   // }, [authState]);
 
-  console.log("State", authState.value);
   return (
     <Modal
       centered
